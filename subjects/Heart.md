@@ -4,7 +4,7 @@
 
 ## ECG
 
-## Hearth beat
+## Heart beat
 
 ## Pulse art
 
