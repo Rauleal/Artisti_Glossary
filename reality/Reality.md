@@ -1,6 +1,6 @@
 # Reality
 
-## Physical Reality]
+## Physical Reality
 
 ## Agumented Reality
 
