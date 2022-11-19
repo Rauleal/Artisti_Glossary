@@ -1,4 +1,10 @@
 # Generative
+/ˈdʒɛn(ə)rətɪv/
+adjective: generative
+1. relating to or capable of production or reproduction.
+"the female reproductive system and its generative cycles"
+2. denoting an approach to any field of linguistics that involves applying a finite set of rules to linguistic input in order to produce all and only the well-formed items of a language.
+"generative phonology"
 
 ## Generative methodology
 
