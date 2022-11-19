@@ -6,6 +6,8 @@ adjective: generative
 2. denoting an approach to any field of linguistics that involves applying a finite set of rules to linguistic input in order to produce all and only the well-formed items of a language.
 "generative phonology"
 
+Definitions from Oxford Languages
+
 ## Generative methodology
 
 With more traditional art forms—sculpture, painting, or film, for example—an artist uses tools to
