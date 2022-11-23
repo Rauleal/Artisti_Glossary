@@ -7,3 +7,5 @@
 ## Extended Reality
 
 ## Mixed Reality  
+
+## Digital Reality
