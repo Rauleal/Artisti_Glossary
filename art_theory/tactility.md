@@ -8,7 +8,7 @@ perceptible by touch or apparently so; tangible.
 designed to be perceived by touch.
 "tactile exhibitions help blind people enjoy the magic of sculpture"
 
-Excerpt from
+Definitions from Oxford Languages
 
 ## Mcluhan tactility
 
