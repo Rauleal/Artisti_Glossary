@@ -47,6 +47,18 @@ position (two or more items) at a distance from one another.
 "the poles are spaced 3m apart"
 (in printing or writing) put blanks between (words, letters, or lines).
 
-## Visual Space
+##  McLuhan Visual Space & Acoustic Space
 
-## Acoustic Space
+One of the big flips that’s taking place in our time is the changeover from the eye to the ear. Most of us, having grown up in the visual world, are now suddenly confronted with the problems of living in an acoustic world which is, in effect, a world of simultaneous information. The visual world has very peculiar properties, and the acoustic world has quite different properties. The visual world which belongs to the old nineteenth century, and which had been around for quite a while, say from the sixteenth century anyway, has the properties of being continuous and connected and homogeneous, all parts more or less alike. Things stayed put. If you had a point of view, that stayed put.
+
+The acoustic world, which is the electric world of simultaneity, has no continuity, no homogeneity, no connections, and no stasis. Everything is changing. To move from one of those worlds to the other is a very big shift. It’s the same shift that Alice in Wonderland made when she went through the looking glass. She moved out of the visual world and into the acoustic world when she went through the looking glass.
+
+.....
+
+Visual space, unlike any other of the sensory spaces, is pretty well taken care of by Euclid, who explored most of its dimensions. In the electric age, however, the non-Euclidian geometries have come back, and Euclid has been put aside. But with the arrival of Euclid and visual space we got a very strange possibility which Plato seized upon. Plato developed his highly systematized philosophy, one even more systematized later by Aristotle, of the idea of rational control of the passions and the world of nature.
+
+Excerpt from: https://www.marshallmcluhanspeaks.com/lecture/1970-living-in-an-acoustic-world/
+
+Other references
+https://maniphesto.com/introduction-to-marshall-mcluhan-visual-vs-acoustic-space-mma/
+
