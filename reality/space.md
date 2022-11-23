@@ -41,6 +41,7 @@ one of two possible states of a signal in certain systems.
 
 
 verb: space; 
+
 position (two or more items) at a distance from one another.
 
 "the poles are spaced 3m apart"
