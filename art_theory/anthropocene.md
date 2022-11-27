@@ -2,12 +2,10 @@
 
 /ˈanθrəpəˌsiːn/
 
-adjective
-relating to or denoting the current geological age, viewed as the period during which human activity has been the dominant influence on climate and the environment.
+1. adjective, relating to or denoting the current geological age, viewed as the period during which human activity has been the dominant influence on climate and the environment.
 "we've become a major force of nature in this new Anthropocene epoch"
 
-noun
-the current geological age, viewed as the period during which human activity has been the dominant influence on climate and the environment.
+2. noun, the current geological age, viewed as the period during which human activity has been the dominant influence on climate and the environment.
 "some geologists argue that the Anthropocene began with the Industrial Revolution"
 
 Excerpt from "Oxford languages"
