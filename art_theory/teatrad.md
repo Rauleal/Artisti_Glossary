@@ -2,10 +2,10 @@
 
 The tetrad consists of four questions.
 
-What does the medium enhance?
-What does the medium make obsolete?
-What does the medium retrieve that had been obsolesced earlier?
-What does the medium reverse or flip into when pushed to extremes?
+* What does the medium enhance?
+* What does the medium make obsolete?
+* What does the medium retrieve that had been obsolesced earlier?
+* What does the medium reverse or flip into when pushed to extremes?
 
 Enhancement (figure): What the medium amplifies or intensifies. For example, radio amplifies news and music via sound.
 Obsolescence (ground): What the medium drives out of prominence. Radio reduces the prominence of print and the visual.
