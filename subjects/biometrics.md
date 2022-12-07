@@ -1,0 +1,7 @@
+# Biometrics
+
+Biometrics are body measurements and calculations related to human characteristics. Biometric authentication (or realistic authentication) is used in computer science as a form of identification and access control. It is also used to identify individuals in groups that are under surveillance.
+
+Biometric identifiers are the distinctive, measurable characteristics used to label and describe individuals. Biometric identifiers are often categorized as physiological characteristics which are related to the shape of the body. Examples include, but are not limited to fingerprint,[1] palm veins, face recognition, DNA, palm print, hand geometry, iris recognition, retina, and odor/scent. Behavioral characteristics are related to the pattern of behavior of a person, including but not limited to mouse movement,[2] typing rhythm, gait, signature, behavioral profiling, and credentials. Some researchers have coined the term behaviometrics to describe the latter class of biometrics.[3]
+
+More traditional means of access control include token-based identification systems, such as a driver's license or passport, and knowledge-based identification systems, such as a password or personal identification number. Since biometric identifiers are unique to individuals, they are more reliable in verifying identity than token and knowledge-based methods; however, the collection of biometric identifiers raises privacy concerns about the ultimate use of this information.
