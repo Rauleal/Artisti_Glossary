@@ -6,7 +6,7 @@ Remediation reflects the ongoing evolution and adaptation of media in response t
 
 The concept of remediation was introduced by media theorists Jay David Bolter and Richard Grusin in their book "Remediation: Understanding New Media" published in 1999. According to their theory, media constantly borrow and rework elements from previous media forms, resulting in a cycle of remediation.
 
-Remediation can take different forms, such as:
+Remediation can take different forms, such as: 
 
 * __Immediacy:__ The attempt to make new media technologies simulate the experience of direct and unmediated interaction with reality, often by incorporating features of older media forms. For example, a virtual reality (VR) experience that aims to create a sense of immersion and presence in a simulated environment.
 
