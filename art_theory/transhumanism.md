@@ -8,7 +8,6 @@ The main keys in transhumansim are identified in science and technology, in thei
 
 Exerpt inspired by "Posthuman glossary - transhumanism"
 
-Git essay <to do>
   
 Mcluhan <to do>
 
